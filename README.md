@@ -1,4 +1,4 @@
-# sassEssentials
+# Sass Essential Training
 
 My companion reference to my lynda.com Sass Essential Training course.
 
